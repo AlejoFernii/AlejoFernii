@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alejandro Fernandez
-- 👀 I’m interested in Music, Games, Movies, Travel.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript
-- 💞️ I’m looking to collaborate on Many projects, just to practice and learn more.
+- 👀 I’m interested in Code, Music, Games, Movies, Travel.
+- 🌱 I’m currently learning JavaScript, Python, and MySQL
 - 📫 How to reach me alejofernii@gmail.com
 
 <!---
