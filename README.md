@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alejandro Fernandez
-- 👀 I’m interested in Code, Music, Games, Movies, Travel.
-- 🌱 I’m currently learning JavaScript, Python, and MySQL
+- 👀 I’m interested in Software Development, Music, Games, Movies, Travel.
+- 🌱 Always trying to learn new frameworks and workflows.
+- 🤖 Vibe Coding makes life easier. 
 - 📫 How to reach me alejofernii@gmail.com
 
 <!---
